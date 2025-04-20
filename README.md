@@ -13,7 +13,8 @@ A sleek and responsive weather report app built with **React**, **Tailwind CSS**
 
 ## 📸 Demo
 
-![image](https://github.com/user-attachments/assets/6546eed6-632d-405c-85ab-469a80583bfd)
+![image](https://github.com/user-attachments/assets/68a2848a-75af-485f-8afe-cb8b99e23a45)
+
 
 
 ## 🛠️ Tech Stack
